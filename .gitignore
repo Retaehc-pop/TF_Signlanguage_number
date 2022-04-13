@@ -1,1 +1,4 @@
 /logs
+DATA/
+DATA/**
+DATA/**/*.npy
